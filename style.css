@@ -59,8 +59,9 @@
 .about-section {
     display: flex;
     align-items: center;
-    background-color: #f3f3f3c0;
+   
     padding: 50px 30px;
+    background-color: #E6B38A;
 }
 
 .link-to-book {
@@ -83,6 +84,7 @@ a.link-to-book:hover {
     margin: auto;
     font-family: 'Big Shoulders Text', cursive;
     font-size: 1.8em;
+    
     /* text-transform: uppercase; */
 }
 
