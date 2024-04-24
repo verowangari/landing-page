@@ -83,7 +83,7 @@ a.link-to-book:hover {
     margin: auto;
     font-family: 'Big Shoulders Text', cursive;
     font-size: 1.8em;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .carousel-inner {
